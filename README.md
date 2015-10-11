@@ -1,2 +1,2 @@
 # Algorhitms
-Repository for labs
+Repository for my labs
